@@ -3,13 +3,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/olckara)  
 
-Skills: #JavaScript #Scala #Java
+Skills: #Java #Kotlin #Scala
 
-📫 How to reach me: [olckara@gmail.com](mailto:olckara@gmail.com) 
+📫 How to reach me: [hello@olckara.dev](mailto:olckara@gmail.com) 
 
 😄 Pronouns: he/him 
 
-📝 Resume: [olckara.dev](https://olckara.dev)
+📝 Resume: [olckara.dev](https://olckara.dev) Updating 🚧
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=olckara&show_icons=true)
